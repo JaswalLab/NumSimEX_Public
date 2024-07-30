@@ -1,6 +1,6 @@
 # NumSimEX_Public
 
-This repository contains the code and materials to reproduce the results from (CITE PAPER).
+This repository contains the code and materials to reproduce the results from NumSimEX: A Method Using EXX Hydrogen Exchange Mass Spectrometry to Map the Energetics of Protein Folding Landscapes.
 
 The included files and folders are:
 
