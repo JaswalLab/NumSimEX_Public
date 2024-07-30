@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NumericalSimulations">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/NumericalSimulations.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

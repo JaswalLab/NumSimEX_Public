@@ -2,9 +2,9 @@
 
 The included files and folders in the source_code folder are:
 
-* source code (Java files)
-* instructions for use (IN...), and 
-* libraries (libraries necessary for running Java code).
+* source code in the Numerical Simulations folder (Java files)
+* instructions for use in respective readme files for Fitting and Simulations (.txt files), and 
+* libraries (libraries necessary for running Java code - .jar files - commons-math3-3.6.1 and flanagan).
 
 Code and work here is protected by CC BY-NC-SA 4.0.
 
