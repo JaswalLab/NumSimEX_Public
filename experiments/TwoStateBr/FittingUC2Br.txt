@@ -1,0 +1,7 @@
+Uncertainties for SimInputAllVar.txt
+0 0.001 
+8 0
+5
+0.0001
+Coordinate
+100 3 10 16

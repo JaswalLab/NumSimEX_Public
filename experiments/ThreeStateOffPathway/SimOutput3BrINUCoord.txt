@@ -1,0 +1,16 @@
+This fitting analysis finished Sun Jan 28 18:44:39 EST 2024 and took 33184.2 seconds
+The fitting was performed on the following experimental data: C:\Users\awagaman\Documents\GitHub\JaswalLab\NumericalSimulationsMain\Wagawal_NumSim\ExampleNumSim\OtherFoldingPathways\INUCoord\B2M_data.txt using 2187 threads
+Within the uncertainties given, the best parameters describing the protein's HXMS behavior were as follows: 
+
+k12 = 0.0010460353203000001
+k13 = 0.001420541793
+k21 = 42.443058438000016
+k23 = 0.0
+k31 = 3.897434200000003
+k32 = 0.0
+The number of protected sites in state 1 = 15.0
+The number of protected sites in state 2 = 12.0
+kbreathe = 2.1384000000000004E-5
+
+The goodness of fit measure for this fitting was 0.9972355990091192
+The fitting method used was Coordinate

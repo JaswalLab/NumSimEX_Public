@@ -9,4 +9,6 @@ The included files and folders are:
 * figure files for the paper in the figure_files folder, and
 * supplemental files in the supplemental_files folder.
 
+Please see `experiments\README.md` for a description of the NumSimEX workflow
+
 Code and work here is protected by CC BY-NC-SA 4.0.

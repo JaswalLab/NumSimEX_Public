@@ -1,0 +1,11 @@
+This fitting analysis finished Wed Dec 11 13:51:58 EST 2024 and took 215.5 seconds
+The fitting was performed on the following experimental data: B2M_data.txt using 81 threads
+Within the uncertainties given, the best parameters describing the protein's HXMS behavior were as follows: 
+
+k12 = 0.0016105100000000005
+k21 = 4.244305843800003
+The number of protected sites in state 1 = 10.0
+kbreathe = 1.262703816E-5
+
+The goodness of fit measure for this fitting was 0.9754008952997476
+The fitting method used was Coordinate
